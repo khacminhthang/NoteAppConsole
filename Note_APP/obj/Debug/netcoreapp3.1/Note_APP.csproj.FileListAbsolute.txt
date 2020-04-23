@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Note_APP\Note_APP\bin\Debug\netcoreapp3.1\Note_APP.exe
+C:\Users\Asus\source\repos\Note_APP\Note_APP\bin\Debug\netcoreapp3.1\Note_APP.deps.json
+C:\Users\Asus\source\repos\Note_APP\Note_APP\bin\Debug\netcoreapp3.1\Note_APP.runtimeconfig.json
+C:\Users\Asus\source\repos\Note_APP\Note_APP\bin\Debug\netcoreapp3.1\Note_APP.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Note_APP\Note_APP\bin\Debug\netcoreapp3.1\Note_APP.dll
+C:\Users\Asus\source\repos\Note_APP\Note_APP\bin\Debug\netcoreapp3.1\Note_APP.pdb
+C:\Users\Asus\source\repos\Note_APP\Note_APP\obj\Debug\netcoreapp3.1\Note_APP.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Note_APP\Note_APP\obj\Debug\netcoreapp3.1\Note_APP.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Note_APP\Note_APP\obj\Debug\netcoreapp3.1\Note_APP.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Note_APP\Note_APP\obj\Debug\netcoreapp3.1\Note_APP.dll
+C:\Users\Asus\source\repos\Note_APP\Note_APP\obj\Debug\netcoreapp3.1\Note_APP.pdb
